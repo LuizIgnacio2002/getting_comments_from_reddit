@@ -1,0 +1,471 @@
+,Comments,Article_ID
+0,"Labure en un equipo de DS como monito programador, los DS todos tenian phd, es puro humo el resto.",163wrg7
+1,![gif](giphy|xT5LMuQroxQi36Hwys|downsized),163wrg7
+2,"Si, totalmente. En un laburo donde estuve una vez buscaban uno, y el perfil no bajaba de Principal, buscaban un doctorado en Matemáticas y de ahí para arriba. 
+
+Es un rol que necesita una sólida base de ciencias duras, por ende el 99% de los bootcamps vende humo y del espeso",163wrg7
+3,Puro humo. El jefe de la parte de datos de la empresa tiene un doctorado en estadística y es ingeniero en sistemas.,163wrg7
+4,"Yo trabajo en el área de data science, y hasta ahora (aprox un año) no tuve que aplicar ningún conocimiento de estadística o matemática. Depende mucho la empresa y el enfoque que se le da al área, en mi caso está más enfocado a sistemas, pero te podés encontrar con áreas como análisis de riesgo donde en general hay actuarios o economistas y se aplica mucho más las matemáticas.
+
+Obviamente lo ideal es saber los fundamentos que hay atrás de cada algoritmo. Pero si no te vas a dedicar a la investigación, desarrollo y/o optimización de nuevos modelos de ml, y solo vas a aplicar machine learning/inteligencia artificial para dar soluciones a la industria, entonces con cursos y lo básico de estadística, ya estás.",163wrg7
+5,"En ningún lugar que conozca toman un data scientist, o a veces ni analista, si no tiene una carrera que tenga estadistica o matematica. Y ahí es solo el inicio, despues puede que te pidan incluso alguna especifica.",163wrg7
+6,"Todos los data scientist que conozco (yo incluido) y que laburan bien tienen una carrera de grado con buena base (tipo actuario) y un posgrado (aunque sea inconcluso). Obvio que es mi experiencia anecdótica, no digo que sea requisito sino hablo como una generalidad. 
+
+Dentro de los equipos muchas veces se dan discusiones muy técnicas para resolver los problemas que pueden aparecer. La mayoría de las cosas se resuelven con las mismas herramientas y ahí si es más mindless pero en cuanto algo se complica un poco ahí se ve quien sabe y quien no.",163wrg7
+7,Justito me vi un video interesante sobre Universidades de USA (tambien se puede aplicar aca) en freeCodeCamp lo explican y hay casos que son vende humo osea hay que informarse bien antes de pisar una institución.,163wrg7
+8,"Analista de datos podría ser, necesitas aprender SQL, algún BI, algo de python, algo de sheets y ser bueno con el story telling.
+Data Science es mucho más complejo, hay muy poca posibilidades para un junior ya que implica un entendimiento de la estadística avanzado. Si una empresa te toma como DS, o son un monstruo que necesita crear perfiles por la baja oferta (Meli o Globant en su época) o unos que están re perdidos y no entienden nada.",163wrg7
+9,"Yo acompañé a un amigo muy cercano mientras hacía uno (el de henry), porque soy ingeniero y .. nada, aguante la matemática. 
+
+La realidad es que es un curso de infraestructura. Les dan un pantallazo teórico a la velocidad de la luz de estadística (y más rápido aún de análisis). Y no mucho más. Hasta parece bastante desubicado. 
+
+Al mismo tiempo les dan un poco de murra con Python y sus librerías clásicas de datos, y la receta de como encarar cuatro casos discretos de business analyst. 
+
+Al final del día es más un curso de infraestructura, de como montar un servicio en la nube que analice una base de datos estática y de resultados falopa que no sirven para nada. 
+
+Supongo que si tenés la suerte de que te agarren como mega trainee, podés ser útil en ese aspecto.",163wrg7
+10,"Sí, yo estoy haciendo un curso como básico de ciencia de datos. Y sí, te pueden enseñar a usar las herramientas así muy por arriba y demás. Pero sé que tenés que tener muy buenas bases. No sé si la universidad sea ultra necesaria. Uno puede aprender estadísticas, matemáticas y demás por su lado también. Pero sé que es algo para lo que necesitás mínimo 3 años firme de estudiar y estudiar",163wrg7
+11,"Humo, cuando todos esos egresados se topen con pared de que no los agarran porque no tienen carrera afin esas escuelas de bootcamp se van a tener que reinventar para otro curso así como paso con los ""web bootcamps"". Te apuesto con una mano en la cintura que la próxima mina de oro será la de impartir bootcamps de ciberseguridad.",163wrg7
+12,Ah la mierda.,163wrg7
+13,"Otra cosa que no entiendo ¿Por que necesitarías tantos analistas? ¿Hay que picar mucho código? Ósea, si estas planteando un bootcamp es porque prevees una demanda muy alta en la posición y por eso ""industrializas"" la formación.
+
+Porque en desarrollo web, la demanda viene por el lado de que efectivamente hay que picar mucho código. Pero si estas analizando data ¿Realmente es necesario mas de 1 programador/analista? Pregunto desde la ignorancia absoluta del tema.",163wrg7
+14,Exactamente,163wrg7
+15,"Mirá la UTN tiene una carrera de tecnicatura en ciencia de datos e IA, me parece bastante interesante, y dura 2 años y medio, y más si de ahí puedo agarrar algo para seguir carrera no investigué si sigue la rama de ahí ya que no me gustaría quedarme solo con tecnicatura.",163wrg7
+16,"Hola, yo quiero estudiar para dedicarme a eso y encontré una licenciatura. Te puedo mandar dm?",163wrg7
+17,">Uno puede aprender estadísticas, matemáticas y demás por su lado también.
+
+Uff... A ver como poder podes, pero como vas a saber que no te equivocaste en una definición super especifica (Ej: la definición de limite (muy básico, si)) ? El lenguaje matemático es muuuuuy formal y un simple error de signo te puede cambiar el resultado completamente.
+
+Ojo, no digo que sea imposible estudiar matemáticas por tu cuenta (de hecho en la universidad lo haces porque los profesores se caen a pedazos) pero siempre vas a necesitar a alguien muy formado que te corrija esos errores minúsculos.",163wrg7
+18,"Quizás estoy errado, pero pasé por la universidad de economía en su momento y creo que la universidad está muy atrasada hoy por hoy",163wrg7
+19,Ya empezaron pero primero con cursos.,163wrg7
+20,">¿Por que necesitarías tantos analistas? ¿Hay que picar mucho código?
+
+En grandes empresas (mi caso 30.000 empleados a nivel mundial y 1000+ en Argentina) muchas areas necesitan de reportería para la toma de decisiones a nivel mando medio y luego a nivel gerencial, y tenemos MUCHOS datos. La realidad que empleamos varios ""data analyst"" y no scientist.",163wrg7
+21,"Claro, siempre vas a necesitar que alguien te vaya guiando. No sé online qué tal lo que se puede aprender de matemáticas y estadística. Pero sé que terminaba de aprender muchas cosas con profesores de Youtube. Por suerte la profe de matemáticas era muy piola y enseñaba con pasión (cosa que tienen pocos profesores). Hoy por hoy no tengo tiempo de ir a la universidad y me educo en casa. Obvio que con cursos y demás. Y sí, por ahí se extraña la exigencia, pero bueh, es el tiempo que tengo y lo que puedo hacer para avanzar. 
+Por ejemplo, con estadísticas, tenía una mínima base, pero con el póker, que es a lo que me dedico hoy en día, he aprendido un montón de estadística. Sé que se puede aprender por cuenta propia, solo hay que rodearse de gente que quiera enseñar también, siempre necesitás alguien que sepa más que vos cerca. Ya más adelante irán a aparecer cursos de ciencia de datos que duren 3 años y abarquen lo que tengan que abarcar y exijan lo que tengan que exigir. Ojalá",163wrg7
+22,"Bueno tu caso es diferente al que menciono porque tenes una base matemática desde la universidad de economía. Cuestiones tan básicas como diferenciar una función de una ecuación, un boga no te lo sabe decir.
+
+EDIT:
+
+Respecto a si están atrasadas, la verdad que en cuestiones tan elementales como la matemática no veo como podrías atrasarte. Me refiero, son teorías, leyes, propiedades, etc. que llevan cientos de años demostradas y estudiadas hasta el cansancio. Siempre van a ser iguales. A lo mejor es atrasada en las formas, pero no en el contenido",163wrg7
+23,"Claro, las formas de llevar el contenido, en eso tenés razón. No puedo creer que en muchas carreras no toques una compu ni software en todos los años de cursado. O que te conecten ciertos contenidos dos años después de que los viste. No sé, creo que se podría mejorar demasiado y me encantaría que evolucione lo que necesita pronto.",163wrg7
+24,me parece que para el mercado esta mejor certificarse en (para tu caso) herramientas para trabajar datos en cloud o... cloud en general,1j608rv
+25,"Te lo digo en base a mi experiencia, si haces un Magister las empresas te van a pelear y las ofertas te llegan solas, lo que si debes aprender a venderte, tener un buen LinkedIn donde te ""certifiquen"" tus amigos/compañeros, y dejes todas tus skills. 
+
+- Cloud
+- SQL
+- Power Bi 
+- Python
+- Etc
+
+Creo que las certificaciones van quedando atrás, a excepción de las de herramientas Cloud, tipo GCP o Azure, junto con la de Power Bi, pero nada pesa más que un Magister para trabajar (un doctorado es para investigar).",1j608rv
+26,"yo creo que son dos cosas distintas. Las certificaciones son para quienes ven fierros en Ti, devops, etc. Ciencia de datos es para datos, no conozco, al menos, una certificación en datos. Personalmente, es atractivo estudiar eso, pero al final los modelos no calzan o tienen 1000 ""peros"" para que le achunte, pierden tracción y el científico de datos queda como analista avanzado (ganando el mismo sueldo, eso si), ojo con eso que lo he visto.
+
+Saludos.",1j608rv
+27,"Las certificaciones de clase mundial son respetadas y validadas en cualquier parte.
+
+Sin embargo, yo volveré a la escuela por una maestría que me quite el óxido. 
+
+For fun and profit.
+
+Mientras tanto, elevo mi Qi en matemáticas.",1j608rv
+28,"estudiar online es una paja, no lo recomiendo xd, no es lo mismo",1j608rv
+29,"Anda por un diplomado en la misma PUC que articule con el magíster en ciencia de datos. Te haces una idea y además sacas un postítulo en lo que te interesa como carrera, te abre la puerta formalmente y cuando estés ganando $$ puedes seguir el magíster con los ramos del diplomado ya avanzados.",1j608rv
+30,"El magister pesa harto ya que tiene un nivel más desafiante. Tengo conocidos que hicieron el MDS de la Chile y aprendieron harto y llegaron a buenas pegas, aunque hay que tener en cuenta que eran 2 años full time. Yo por mi lado hice un Diplomado en la PUC de Big Data y Machine Learning. No lo recomiendo para aprender, solo para señalizar, ya que es muy introductorio. Aunque me sirvió para llegar a pegas de Data Engineer. Ahora bien, si quieres aprender herramientas puntuales (Tableau, Power BI, Excel), mejor DataCamp. Y te tiene que gustar la weaita. Para cargos como BI o Data Analyst siempre suelen preferir Ingenieros Industriales/Comerciales, porque tienen más conocimiento del “negocio”, pero otros más técnicos estas bien.",1j608rv
+31,Hágalo en la Chile par que seamos compañeros,1j608rv
+32,"Certificaciones y que sepas crear y utilizar las herramientas creando proyectos, soluciones concretas. Un magister es el camino largo y no es tan verdadero que las empresas te pelean.",1j608rv
+33,"Los magister académicos (MSc) están orientados a la investigación igual que los PhD, no te capacitan o especializan  para el mundo laboral",1j608rv
+34,Y que magister tienes tu? donde lo hiciste?,1j608rv
+35,"Hay certificaciones de Data Science en Databricks, Azure, GCP y muchas más.",1j608rv
+36,"Por lo menos el mío, en ciencia de datos es más técnico que académico (todo lo visto acá, lo he aplicado con excepción del ML Bayesiano jajajaja), siento que el de inteligencia artificial se lleva ese rol (académico), nunca he visto un jefe/gerente sin magister, por lo menos en los Magister relacionados a la Ciencia de datos... Miento ajajaja solo he visto uno",1j608rv
+37,"En la UC en Ciencia de Datos, ni siquiera lo he terminado y me llegan un montón de mensajes en LinkedIn, siendo que antes nadie me pescaba jajajajajaja",1j608rv
+38,Que carrera estudiaste?. Que edad tienes?,1j608rv
+39,"29, Ing Comercial",1j608rv
+40,"Si el futuro es muy prometedor. Pero el problema es que mucha gente cree que eso es programar.
+
+Los mejores sueldos en esa area estan atados a altos niveles de educacion en matematicas, estadisticas, ciencias actuarias y demas. Estoy hablando de PHD incluso. 
+
+Lo que va a pasar en el futuro es que mucha gente cree que es levantar un modelo, hacer 4 tonterias copiadas de chatgpt y manejar lagos de datos. Y entonces los sueldos se van a ir al piso, los crios se van a frustar, van a hablar mierda de los trabajo y que no consiguen nada y resulta que va a haber mucha demanda pero para personas con altos grados de especializacion.
+
+Yo te recomendaria que hagas cosas relacionadas con ingenieria de datos, BI y negocio enfocado en tu area actual y NO abandones el trabajo. Trata primero de ver futuro y oportunidad de crecimiento dentro de tu empresa actual y si no hay nada de eso empieza a buscar basado en lo que ya hayas avanzado en los temas que te comente. Si te sientes estancado busca aprender del negocio, especializarte en administracion o proyectos. Eso es lo que abre las puertas.",1k767iz
+41,El movimiento siempre será mejor que quedarse estancado,1k767iz
+42,"La demanda por expertos en ciencia de datos continúa creciendo en múltiples sectores, lo que significa más opciones laborales, trabajar en este ámbito nos brinda la posibilidad de ayudar a resolver problemas sociales, económicos y ambientales.",1k767iz
+43,"El mercado está saturado sinceramente, especialmente juniors.
+
+Si te soy sincero un máster no va a ser diferenciador para que te contraten pero si posiblemente para conseguir entrevistas.
+
+Bajo mi punto de vista lo que hace que te contraten será el valor que seas capaz de aportar e ir un paso más allá que en este caso será no quedarte solo en SQL y Python, lee libros relacionados, blogs, entiende conceptos, crea un portfolio interesante, etc.
+
+Resumiendo está especialmente difícil, sigue habiendo demanda pero bastante menos que oferta.
+
+EDIT: comento cómo percibo que está el mercado actualmente porque no creo que cambie mucho a futuro cercano, el futuro más lejano es imposible de saber",1k767iz
+44,"Hay demasiados juniors Si.
+Están estos juniors preparados para lo que pide el mercado laboral No.
+Hay oportunidad si tienes las herramientas adecuadas obviamente si",1k767iz
+45,"Muévete por algo que te apasione y no por como será o supones como será el mercado laboral. Eso es un consejo que me dieron hace tiempo y la verdad que al implementarlo siempre me dio resultado. Otro punto bueno de moverte entre trabajos o ir a hacer estudios como masters o especializaciones es que haces contactos. Los contactos son muy importantes, sácate el chip de trabajar para alguien sino también busca proyectos en forma independiente y esos vienen la mayoría de las veces por contactos.",1k767iz
+46,"Te voy decir la cruda realidad, trabajo en tecnologia, programdor de carrera y tambien experiencia en infraestructura, trabajo en una empresa relativamente grande +10 de años, gano el doble que tu y tambien me siento estancado,  y lo mejor es que alguien con menos experiencia que yo y MENOS PREPARACION ACADEMICA usando chatgpt, escalo mas que yo en todo este tiempo y ahora es mi jefe. Moraleja: trata de hacer un plan para independizarte y hacer tu propio futuro e invierte tu dinero en algo que te retorne beneficios, estudiar ya no te garantiza nada.",1k767iz
+47,"+1000 cuanto? Ni en pedo estudio años para ganar eso, yo termine el secundario de pedo y gano lo mismo ""pasando la escoba"" 8 horas.. entre comillas porque solo tengo la escoba en la mano y ni limpio!",1k767iz
+48,Como escritor de prompts,1k767iz
+49,"Desde hace 5 años se empezó a dictar la carrera, o sea que este año tendríamos la primera tanda de recibidos. Si la carrera o el campo profesional en si no tuviera futuro las universidades no ofrecerían tal titulación.",1k767iz
+50,Es mejor moverte a algo más de lo que ya haces que empezar de 0 en algo más,1k767iz
+51,Lo que viene es un boom brutal hay cientos de ofertas laborales ahora. Y los que faltan. Son los héroes de los modelos de negocio.,1k767iz
+52,Bro una pregunta,1k767iz
+53,"Saturado y muerto. Hace 10 años hubieras ganado muy bien, hoy no. Tampoco te recomiendo aprender a programar en este momento solo que lo hayas probado y en vdd te haya gustado ya que a muchos les vendieron la mentira de que con saber programar mejorarás tu ingreso hasta en un 500%",1k767iz
+54,"Disculpa la pregunta.
+¿Consideras que para las personas que no buscan enfocarse en áreas de la programación que requieren muchas matemáticas no hay una buena expectativa salarial?
+
+Actualmente estoy por terminar mi carrera de Ingeniería en Computación. Elegí esta carrera más por la facilidad de encontrar un trabajo en el area que por una habilidad particular en matemáticas. Ahora estoy considerando si vale la pena seguir esforzándome en esta área o si sería mejor dedicarme a otro negocio que tengo, en el cual veo una buena oportunidad de crecimiento.
+
+O quizá aplicarme mas con cursos de matemáticas y encontrar el gusto, no lo se. 
+
+Gracias por leer. 😄",1k767iz
+55,Gran frase amigo,1k767iz
+56,Y los alemantes se movieron. Votaron a hitler,1k767iz
+57,Creo lo mismo y siento que puedo aportar desde ámbito empresarial mucho de mi experiencia anterior.,1k767iz
+58,Entonces parece que hice bien en empezar la carrera. Es un terciario... pero las materias son correlativas con las materias de la universidad por lo que se puede expandir,1k767iz
+59,¿Ambientales? ¿De qué se trata ese punto?,1k767iz
+60,Puro blablismo,1k767iz
+61,[deleted],1k767iz
+62,vos sos data scientist¡?,1k767iz
+63,Y no has pensado en cambiar de trabajo?. Como lo hizo el tipo que ahora es tu jefe?,1k767iz
+64,"Ser jefe no es para cualquiera, por más que no te parezca justo, hay gente que no nació para liderar",1k767iz
+65,"Perdoname pero tengo que discernir muchísimo.
+
+Las universidades estos últimos años lanzaron carreras muy falopas al mercado con tal de venderlas para tener mayores ingresos y luego ves los egresados no consiguen trabajo o se dedican a otras cosas que no tienen relación con lo que estudiaron.
+
+Ejemplos: licenciatura en negocios digitales, administración y sistemas, marketing, etc.",1k767iz
+66,"No me lo había plateado, pero puede ser una muy buena opción",1k767iz
+67,Cuéntanos mas,1k767iz
+68,"Cual crees que ahora sea la nueva tendencia? Parece que todo son burbujas que se inician y luego explotan, el que tomo la ola bien y el que no, no aprovechó la oportunidad.",1k767iz
+69,"Toda la programación es matemáticas (lógica).No confundir con saber usar un lenguaje (q es lo que casi todos hacen). Sobre mi experiencia te digo q el sueldo crece cuando más especializado estás. Mientras más específico da tu conocimiento mejor tu sueldo. El otro factor es que tú conocimiento no solo este actualizado sino q seas capaz de generar nuevo conocimiento y para eso debes ser un tremendo apasionado de lo que haces, a lo que te dedicas se convierte prácticamente en la razón de respirar, prácticamente respiras por tu carrera. Ese nivel de pasión empieza desde antes de la universidad y es algo que no se aprende a ser así, porque ya eres así.
+
+los factores para los bajos salarios pueden resumirse en que hay demasiados ""programadores""  y muchas empresas que no le dan la seriedad respectiva a sus proyectos y terminan haciendo unos desastres en contratación.
+
+La mayoría de los frustrados que veo en el ambiente es porque tienen expectativas falsas y eso no va a cambiar porque hay un gentío haciendo dinero vendiendo ese humo.
+
+Si te gusta más tu otro negocio y sientes que vas a estar más cómodo haciendo otra cosa: hazlo.
+
+Si quieres programar, q eso sea una herramienta para hacer más fácil tu otro trabajo o negocio.",1k767iz
+70,Siempre esta el loco que relaciona todo con la segunda guerra mundial o la política.,1k767iz
+71,¿Robótica? Me interesa eso. Quizá en 500 vidas lo consiga estudiar.,1k767iz
+72,"Estamos ante la antesala de una nueva revolucion industrial, no te quedes quieto, si te interesan los datos metele",1k767iz
+73,Creo que quizás pueda ser buen complemento para mi y lo que ya ido aprendiendo de industrias,1k767iz
+74,"Yo te diría que no dejes de aprender y sigas invirtiendo en ti. Actualmente todo está saturado de jrs los cuales el 99% se quedan lo que vieron en un curso, un bootcamp y demás y solo se contratan a los que en vdd les gustó y siguieron aprendiendo y mejorando. Algo tiene que pasar y va a cambiar todo, seguramente se volverá popular el vibe coding aunque yo siento que es como el NFT que nació muerto, no tiene mucho futuro",1k767iz
+75,"Si, hay harta pega y buenos sueldos. La ciencia de datos es aplicable a todas las industrias. El tema es que no es fácil entrar, ya que piden hartos conocimientos, tecnologías y en algunos casos postgrados.
+
+Un buen camino es entrar como analista de datos e ir haciendo carrera hasta llegar a un cargo de científico de datos.",1hgrfrv
+76,"Yo terminé mi magister de ciencia de datos hace unos meses, y te puedo decir que no hay tanta pega, al menos en regiones. He estado buscando y hasta ahora nada. Por suerte tengo un trabajo ya, pero quiero cambiarme pronto, por sueldo mas que nada",1hgrfrv
+77,"Hola OP, yo trabajo haciendo investigaciones del mercado laboral
+
+Hice la de Científico de datos hace poco:  
+[https://candidato.ejecutivolatino.com/cargo/cl/Cient%C3%ADfico%20de%20Datos/](https://candidato.ejecutivolatino.com/cargo/cl/Cient%C3%ADfico%20de%20Datos/)
+
+Es una carrera interesante y bien pagada. Sin embargo, tiene barreras de entrada grandes. La parte matemática es más compleja de lo que la gente dimensiona y es común que personas con aspiraciones a esta especialización no tengan la capacidad de ejercerla. Es cada vez más común que pidan un máster o doctorado en ciencias duras. Según mi investigación, un 27% aproximadamente de las ofertas pedía este requerimiento. Las únicas excepciones que conozco de gente que se dedica a ciencia de datos sin postgrado son personas de Ingeniería Civil Matemática o Ingeniería Civil en Ciencias de la Computación.
+
+En general, lo que estoy viendo es que las personas comienzan con una especialización en BI o Análisis de Datos:  
+[https://candidato.ejecutivolatino.com/cargo/cl/Analista%20de%20Datos%20y%20Business%20Intelligence/](https://candidato.ejecutivolatino.com/cargo/cl/Analista%20de%20Datos%20y%20Business%20Intelligence/)
+
+La barrera es mucho más baja y permite comenzar a entender el mundo de los datos, antes de lanzarte a algo tan complejo. Quizás en el camino descubres que quieres otra sub especialización como Data Engineer o especializaciones por Industria/Área.
+
+En general datos es una buena área para crecer. Los profesionales tienen un buen poder de negociación. Hay que entender que su carrera progresa en la medida que están en ambientes con mayor disponibilidad de datos. Por lo que es medio natural que terminen en empresas más grandes.
+
+Espero haberte ayudado y cualquier duda aquí quedo.",1hgrfrv
+78,"Hasta donde he revisado y consultado la ciencia de datos es más una extensión o un set de habilidades, como modelado de riesgo, usar ML para agrupar ponte tú clientes, proyectar KPI.
+
+Según mi noción personal y puede estar sesgada por lo que estudio, DC resuelve problemas estadísticos y no taaaanto como de programación como si lo hace el DE o el MLE (éste último es como un mix de ambos, arma el pipeline, los modelos y toda la wea XD).
+
+Dicho esto diría que hay y existe pega en ciencia de datos pero asociada a habilidades de negocios. Por eso muchos estudiantes de los programas de magister de ciencia de datos son industriales y comerciales",1hgrfrv
+79,Soy ingeniero de datos y todavía no encuentro un científico que le achunte a lo que dice.,1hgrfrv
+80,"Bancos, compañías de seguro, compañías telco... cualquier empresa como miles de clientes va a tener bases de datos gigantes y necesita ciencia de datos.",1hgrfrv
+81,"Yo justo ahora estoy postulando a esa área. Hay harta oferta, pero también muchísima demanda. Todas las empresas grandes tienen área de ciencia de datos, y hay hartas empresas nuevas que solo trabajan esa área. Por lo que estoy viendo en las postulaciones hay dos perfiles que se buscan harto. Los de BI, eso es más conocimiento de herramientas Power BI, SQL, tableau, excel, un poco de python.  Y los otros son más los de modelamiento e investigación, esos son harta materia, conocimientos en matemáticas y programación, ellos trabajan mucho con pyhton, servicios cloud, SQL y no SQL. Cuidado eso si, porque el primer tipo de perfil también lo están cubriendo los industriales. 
+
+Yo si le veo harto futuro al área, pero gracias a la competencia, igual creo que hay que tomar un rol proactivo. Tipo tener proyectos personales, ser muy selectivo con tus prácticas, conseguir alguna que otra peguita antes de titularse, ese tipo de cosas.",1hgrfrv
+82,Si hay alguna mención en Machine Learning o Inteligencia Artificial vaya por ahí,1hgrfrv
+83,"Es buena pega actualmente, en el sentido que los sueldos son altos para este tipo de cargos. Sin embargo, igual la competencia es alta. Hay harta gente con experiencia y magister compitiendo. Yo siempre he trabajado en análisis de datos en distintas áreas, hice un magister para ir más hacia ese lado y aún no encuentro posición como DS. Te recomendaría ir más por el lado de Ing. de Datos.",1hgrfrv
+84,"Hay mucha pega de ciencia de datos pero esta saturado de junior gracias a esos estafadores de los bootcamps que prometen el cielo y la tierra en 4 meses, la mayoría no maneja ni la teoría básica para entender los datos. Más adelante la diferencia entre el que realmente sabe y el que no será mucho mayor. Por eso los mejores sueldos son de gente con posgrado en el área o personas que vienen de ingenierías civiles por ejemplo",1hgrfrv
+85,Te recomiendo meterte en ingenieria de datos.,1hgrfrv
+86,"Creo que el mercado actual no está para ""estar eligiendo"" . Cuando usted salga de estudiar lo más probable es que  se tenga que confirmar en dónde encuentre. Ojalá sea en ciencia de datos, pero es un azar.",1hgrfrv
+87,"Oye buena, es justo lo que quiero hacer, partir por Analista de datos (que se me da facil) y en algun punto llegar a ciencia de datos (al seguir especializandome), pero como dice otro comentario, para la ciencia de datos es brigido los requisitos que solicitan en las ofertas de trabajo.",1hgrfrv
+88,En regiones gralmente es difícil la vd,1hgrfrv
+89,"Regiones no hay nada. Incluso remoto está duro, todo es híbrido o presencial.",1hgrfrv
+90,"Gracias! La verdad que de todas las menciones que hay, es el área que más me interesa... No sé si cuenta como plus, pero estudié ingeniería física y vi mucha matemática compleja... ",1hgrfrv
+91,"Yo llevo un puñado de años en la industria como MLE y me he dado cuenta la distinción entre Data Science y Machine Learning Engineer es bastante difusa, y por lo general queda a criterio de cada empresa definir su role description. 
+
+Por ejemplo, en Uber no existe el cargo de MLE, es solo Data Scientist. En Rappi, existe Data Science y MLE, pero en la practica hacen casi la misma pega. En NotCo no existe el rol de Data Science, solo MLE. 
+
+Yo creía que Data Scientist terminaba su pega en el Jupyter Notebook, y el MLE se encargaba de ponerlo en producción. Pero me he dado cuenta que depende completamente de la empresa a la que se postule cual es la expectativa del rol.",1hgrfrv
+92,"De hecho hace unos pocos meses anunciaron la nueva mención (la quinta), que es mención en inteligencia artificial... ",1hgrfrv
+93,Por?,1hgrfrv
+94,"Cuando salí me contaron el mismo cuento, yo quería trabajar en data, me esforcé y quizás tuve suerte no se, pero me demoré quizás dos meses?",1hgrfrv
+95,"OP si estudiaste ingeniería en física, no pierdas tiempo ni dinero en Informática en el duoc, con ese titulo mejor te conviene realizar un master en ciencias de datos y quedas listo 🖖🏻",1hgrfrv
+96,"Yo creo que es un plus. Pero depende mucho de la universidad OP. Lamentablemente el juego de la escalera corporativa no es meritocrático. Es más bien un juego de credenciales y política.
+
+Como punto de referencia, piensa que un modelo ARIMA para un Científico de datos tiene que ser fácil de entender.",1hgrfrv
+97,"Se deberían estandarizar los términos XD, también se confunde al DA con el analista BI, muy similares pero con sus diferencias, al final toca aprender un poco de todo lo que da lugar a que sean tan difusas las fronteras de las profesiones",1hgrfrv
+98,Ahora se habla de MLops,1hgrfrv
+99,Este comentario es oro,1hgrfrv
+100,">Yo creía que Data Scientist terminaba su pega en el Jupyter Notebook, y el MLE se encargaba de ponerlo en producción.
+
+Yo tenia entendido esto mismo al menos.",1hgrfrv
+101,Ese es el camino,1hgrfrv
+102,Es más del campo de la informática y a futuro te puede perfilar a ciencia de datos como informático con algún trasfondo estadistico,1hgrfrv
+103,Vengo del futuro donde llegaremos al Full Stack Data que será Analista de Datos / BI / Data Science / Data Engineer / MLops al mismo tiempo.,1hgrfrv
+104,Te fatla governance,1hgrfrv
+105,"Debiste haber terminando tu licenciatura, pero ya debes tener esa parte matemática de base supongo. 
+
+Enfócate en estudiar algún lenguaje de programación ya sea Python o R , que son los que más se usan en el área 
+
+Luego a la par trata de adentrarte en SQL, Excel , Posee bi o tableu
+
+Vas a tener que aprender de algoritmos y técnicas de machine learning una vez que domines lo básico del lenguaje de programación que elegiste ( te sugiero enfocarte en Python para esto ) 
+
+Cuando entres a machine learning tendrás que aprender de librerías y frameworks de Python (scikit, panda,numpy e irte por pytorch o tensorflow (te recomiendo este último))",15a5mny
+106,"si amigo, valen la pena. No se su nivel pero en udemy esta sobrado de cariño y luego lo complementa con coursera, kaggle u otros problemas bonachones.",15a5mny
+107,"Podrías partir [por aquí](https://rafalab.dfci.harvard.edu/dsbook/). No se en qué año te saliste de la licenciatura en matemáticas (spoiler, no deberías haberlo hecho) pero deberías tener una base mínima para poder estudiar ciencia de datos.",15a5mny
+108,"Te recomiendo que si te gusta la programación, te enfoques en la Ingeniería de Datos, tiene menos competencia y mayor proyección a futuro, los Data Scientist, son solo analistas de BI glorificados. Pero si te gusta hacer tableros de consultas para empresas, está bien con tu base matemática, además de que te enfoques en estadística y python y crear un portafolio.",15a5mny
+109,"Te recomiendo hacer los cursos de kaggle y de freecodecamp. Dan una buena base y son gratis. Ten cuidado que ahora hay un ""hype"" con la ciencia de datos y programación, y hay hartos cursos truchos",15a5mny
+110,"Te recomiendo que busques un curso o boot camp bien completo y lo termines hasta el final. Que hagas bien los proyectos que les presentan. En mi experiencia, desde chico tomé VARIOS cursos, de Python, SQL, Tableau, estadística, y por pura falta de constancia no los terminaba nunca, los dejaba botados. Obviamente no llegaba a aprender todo lo necesario para ejercer, así que tomaba otro curso, y pasaba que empezaba a ver lo más básico de nuevo, cosas que ya manejaba, entonces no podía conectar bien con las dinámicas de los cursos y los dejaba botados. Terminé alcanzando un nivel intermedio en todo, pero nunca me sentí un wn realmente capaz de trabajar como data scientist por ejemplo. Eventualmente encontré una pega donde tuve que aprender a la mala, y gracias a la gente que estaba ahí mejoré mucho y ahora trabajo en datos, pero tuve que dar una vuelta muy larga.",15a5mny
+111,"No valen la pena, tienes todo el contenido y más en plataformas como Coursera o Udemy, te recomiendo que estés atento a las convocatorias de Talento digital, es gratis  y en cuanto a contenido ofrecen lo mismo y te ayudan a buscar trabajo por 3 meses con un acompañamiento cercano donde te dan tips de cómo mejorar tu LinkedIn, prepararte para entrevistas y te recomiendan empresas que son parte del programa.
+Ya que no tienes título y no parece ser que quieras tener uno, te recomiendo que te certifiques en SQl y en Python o R, una herramienta de visualización como power BI o tableau  también es bueno que la manejes, y un plus muy importante es que te adentres en la Nube y te puedes hasta certificar, se que Google tiene un programa para certificarte en su nube que es Googlecloud, AWS tb es bastante demandado.",15a5mny
+112,*Era power bi*,15a5mny
+113,"Pero ponte tú igual me pedirán un título al intentar ingresar a un trabajo, mi duda va más enfocada a si debería hacer ese curso como para ""tener algo"" a la hora de presentarme en una empresa",15a5mny
+114,"En matemáticas tengo buen nivel, o al menos bastante mejor que la media , se algo de Python (lo básico) pues hice un curso de introducción a la programación en mi Universidad, ahí revisaré los sitios que me propone... Gracias 😊",15a5mny
+115,"Me salí al 3er año(son 4), pero en realidad es porque ya perdí interés por la carrera, y le agarre cierto odio a las matemáticas (avanzadas), siento que no quiero ser matemático, me provoca mucho rechazo y ansiedad los cursos que me quedan, que son los más peludos de la carrera (pues los dejé todo para el final y rellene con ofgs y con los avances mínimos de la licenciatura) ahora me queda un año y medio que a priori podrían ser más años y no me siento con las ganas ni tampoco tengo los recursos para cubrir más años en caso de necesitar, me salí de la carrera y ahora daré la PAES y me meteré a pedagogia en matemáticas que me convalidaran gran parte de los ramos, y me saldrá a priori gratis porque ocuparé la beca vocación de profesor, entonces en caso de que no me salga algo de lo que planeo , me meteré en este mundo (y bueno si sale bien también siendo profe me meteré más adelante) , por eso las preguntas, la licenciatura en verdad no me sirve para mucho, sin tener que seguir estudiando más matemáticas a futuro (cosa que en verdad NO QUIERO), así que eso, gracias por el consejo.",15a5mny
+116,"Gracias, los tomaré en consideración ❤️",15a5mny
+117,Cuáles truchos??,15a5mny
+118,"Gracias por tu consejo, y si... mi idea es sacar una carrera, pero probablemente sea pedagogia en matemáticas (para aprovechar mis 3 años de licenciatura, pues me convalidan casi todo), lo de data scienst es aparte... Me quiero certificar y aprender por mi cuenta aquello y con lo que me dijiste debería bastar, así que muchas gracias por la lata de escribir todo",15a5mny
+119,"No te metas a coderhouse ni a desafío, son re caros y por lo que valen te puedes armar la tanda de cursos en udemy donde tendrás más variedad para forjar tu ruta.",15a5mny
+120,En un trabajo en ciencia de datos puedes sufrir aún más ansiedad . Si no quieres dolor quizás algo en business intelligence sería mejor,15a5mny
+121,"Ahhh genial amigo, muchas gracias por tu consejo, oye y ponte tú coderhouse vale ahora mismo muy barato por una oferta, está a un 70% de descuento, en ese caso por probar estaría bien?",15a5mny
+122,"Si me pagan bien por ello no me importaria sufrir, pero las matemáticas son super mal pagadas",15a5mny
+123,"No, compa
+
+Vuelvo a sugerir que si te quieres adentrar pruebes con 1-2 cursos de udemy para que veas si de verdad te gusta (ahora están en oferta por hoy creo) 
+
+No te saldrán más de 15 por curso a veces menos.",15a5mny
+124,Lo otro es que si vas a comprar cursos en udemy fíjate que estén actualizados a este año ojalá y te sugiero que vayas por cursos que tengan más de 4.5 estrellas y una cantidad decentes de inscritos (revisa los comentarios para hacerte una idea),15a5mny
+125,"Te paso algunos links y te fijás que tan difícil te parece, suerte! 🍀
+
+[https://roadmap.sh/ai-data-scientist](https://roadmap.sh/ai-data-scientist)
+
+[https://github.com/FernandaCader/recursos-datos](https://github.com/FernandaCader/recursos-datos)
+
+[https://jakevdp.github.io/PythonDataScienceHandbook/](https://jakevdp.github.io/PythonDataScienceHandbook/)
+
+[https://www.freecodecamp.org/learn/data-analysis-with-python/](https://www.freecodecamp.org/learn/data-analysis-with-python/)
+
+[https://www.freecodecamp.org/learn/machine-learning-with-python/](https://www.freecodecamp.org/learn/machine-learning-with-python/)
+
+[https://www.freecodecamp.org/learn/scientific-computing-with-python/](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
+
+Edit: Agrego curso de mates: [Essential Mathematics for Artificial Intelligence](https://learning.edx.org/course/course-v1:Microsoft+DAT256x+1T2018a/home)",1bhxteu
+126,Huevos no. Si no tienes cabeza para mates mejor que le eches horas,1bhxteu
+127,Depende que tan rico se mueva el python,1bhxteu
+128,"Lo mejor es empezar con visualización de datos; los cambios visuales te dan un feedback instantáneo para corroborar que dominas las funciones de las librerías y conceptos de Python como seleccionar columnas para visualizar una relación de dos variables, por ejemplo.
+
+Te dejo un tutorial: Visualización de Datos | Básicos de Matplotlib & Seaborn
+https://youtu.be/d79V5MKlV2U
+
+Si te interesa la manera de enseñar, cada semana hago clases en directo y abierto a través del canal de YouTube.
+
+Si quieres interactuar por voz, también tengo el Zoom abierto para quien quiera.
+
+PS: He enseñado a más de 800 alumnos 1:1 que se han metido en maestrías relacionadas con big data, data science e inteligencia artificial.",1bhxteu
+129,"Que tan difícil es una profesión como Data Scientist o cualquier otro oficio es subjetivo ya que depende mucho de tus habilidades actuales y aptitudes (que tan fácil te es aprender algo en específico). Por ejemplo, hay personas tienen buenas aptitudes para el diseño u otras para la programación, por lo que se les puede hacer más sencillo aprender aquello en lo que son aptos que aquello en lo que no.
+
+Dicho eso, tienes que tener en cuenta que el campo de Data Science, ya sea en Data Analytics, Big Data, Machine Learning, Computer Vision, o cualquier otra especialidad, requiere saber de matemáticas avanzadas, por lo que te será más fácil convertirte en un Data Scientist si tienes aptitudes para las matemáticas y mejor aún si te gustan.
+
+Y esto es porque en Data Science las matemáticas se utilizan para todo, pues estarás trabajando únicamente con números y dependiendo del proyecto vas a necesitar interpretar que es lo que significan los resultados de las operaciones que hayas realizado (que serán números también). Incluso, para poder interpretar que es lo que significan esos números tendrás que aprender sobre algún dominio en específico, como finanzas o biología, dependiendo de en que sector quieras trabajar como Data Scientist. Por ejemplo, imaginemos que después de realizar múltiples operaciones obtengo como resultado un -5, en Image Processing tal vez esto pueda significar que una imágen se hizo más pequeña 5 veces, o algún otro parametro como Brightness, Saturation, Resolution, pero sea lo que sea, además de matemáticas tendrás que saber sobre imágenes para interpretar que significa ese valor; o bien, en finanzas tal vez ese -5 representa una pendiente negativa en las ganancias de una empresa (lo cuál sería malo), o tal vez representa los costos (lo cuál sería bueno), por lo que en este caso tendrás que saber algo de finanzas para llegar a una conclusión.
+
+Por supuesto estos son ejemplos simples, ya podrás imaginar que existirán casos mucho más complejos que requerirán ser experto en algún área, pero independiente de eso todas tendrán como base matemáticas avanzadas, en especial Probabilidad y Estadística. Además, habrá algunas especializaciones en Data Science que requerirán saber más de cierta área de matemáticas que otras, por ejemplo Computer Vision que se enfoca en el análisis de imágenes te exigirá conocer más sobre Algebra Lineal (no confundir con Algebra I o II) donde aprendes a manipular matrices (las imágenes son matrices): o bien, si estás en Signal Processing en donde podrías trabajar con ondas de audio, seguramente tendrás que conocer más sobre Ecuaciones Diferenciales (no confundir con Calculo Diferencial que está como 3 materias antes) en donde se trabaja con Fourier.
+
+Creo que hasta este punto tendrás una mejor idea de que tan difícil o fácil podría ser convertirte en Data Scientist según sea tu caso, pero dejando de lado eso y enfocandonos en que tan bien remunerado es, de nuevo es un depende. 
+
+Depende de que? Bueno, en primera tu habilidad y experiencia, y segunda la empresa para la que trabajes. Hay empresas en algunos países que pagan 50k-100k dlls al año a Data Scientists o hay empresas en otros países que pagan 15k dlls o menos al año. Incluso hay Data Scientists que ganan dinero dependiendo de que tantos recursos puedan ahorrarle a alguna empresa a partir de sus análisis, descubriste como la empresa podría ahorrarse $100k dlls? Bien, podrías cobrar un 20% ($20k dlls), no pudiste ahorrarles nada? Pues no ganas nada.
+
+En tu caso si sabes de marketing, sabes de programación y aprendes sobre análisis de datos, tal vez una muy buena opción sería aprender SEO, donde analizarías datos (matemáticas) para mejorar el ranking de las páginas web (programación) de empresas en navegadores web de tal manera que obtengan una mayor presencia online (marketing). Pero de nuevo, depende de tus preferencias y aptitudes.",1bhxteu
+130,"La neta para la ciencia de datos ocupas mucha experiencia
+
+Empieza como data analist para agarrar la experiencia y entender el medio, y poco a poco has la transición a data scientist; esto en Caso de no tener titulo
+
+En caso de tener titulo empieza desde abajo para hacer experiencia y has la transición",1bhxteu
+131,"Me quedo a leer, empece un curso de analista de datos con la misma perspectiva que vos, una nueva herramienta para los tiempos que correrán en el futuro inmediato (soy boga).",1bhxteu
+132,"EXPERIMENTA Lo Que Es Ser DATA SCIENTIST Durante Una Semana gratis,   \[y descubre si realmente es para ti antes de decidirte a invertir tiempo y dinero en una formación\]
+
+Te registras y todos los dias durante una semana se abre un ejercicio con un video explicativo, es EXCELENTE !!!
+
+Lo mejor que he visto hasta ahora, (para entender y comenzar en este nuevo mundo, aclaro. )
+
+[https://datascience4business.com/01\_pdsm-tps-optin/](https://datascience4business.com/01_pdsm-tps-optin/)
+
+Despues me das las gracias.
+
+.-",1bhxteu
+133,"La mayoría que vi son todos ingenieros o Licenciados no toman gente de la nada actualmente tiene bastante requisitos por lo que vi, antes sabía que tomaban a lo que había pero ahora piden que tengas un título.",1bhxteu
+134,No es imposible pero si uno se enfoca demasiado en lo practico y poco en las bases teóricas no se avanza.,1bhxteu
+135,"2.300.000 brutos ( trabajo en una multinacional pero ojo que no estan pagando eso a todos - soy economista, programador,  tengo un MBA y una Maestria en Estadistica ) . Hay una competencia feróz por que muchos profesionales ( actuarios, matematicos, fisicos, ingenieros, etc) reorientaron sus carreras ( de hecho las maestrias en data sciencie estan abarrotadas de estudiantes) 
+Afuera con buen inglés podes ganar 4.500 usd. pero es condición sine quan nom maestria o doctorado. 
+Tengo amigos que son docentes. Estudiaron menos años que yo y se llevan 1.5 neto... con 10 añitos de profesión... 2 meses de vaca y 0 stress.... yo soy docente también y el costo beneficio a no ser que seas crack y la pegues en una compañia de afuera no vale la pena. Ojo es mi opinión personal. Mucha suerte",1bhxteu
+136,Buena base matemática y estadistica,1bhxteu
+137,"Man seguro nunca intentaste sentarte todo el dia por meses a estudiar matematica, asi q no digas que te cuesta xq no lo sabes.
+
+Yo decia lo mismo hasta q no me quedo otra que hacerlo y se aprende. Es cuestion de sentar un poco el orto.",1bhxteu
+138,"Data Science está mucho más saturada que cualquier otra STEM, te recomiendo reconsiderar, además todos los trabajos bien pagados solo los obtienen PhDs con años de experiencia.
+
+Mejor intenta buscar un trabajo de programación y si te gusta y te va bien ya después puedes volver a consider moverte a DS.",1bhxteu
+139,"Es pura matemática y estadística mas un tool o dos.
+
+Los mejores con los que trabaje eran todos licenciados en ciencias de la computación con un doctorado encima.
+
+Supongo que como todo en este rubro debe haber un segmento que necesita menos preparación y se pueda hacer mas ad hoc.",1bhxteu
+140,Son 5 años de carrera + la experiencia laboral,1bhxteu
+141,"Ponete a estudiar un profesorado. Vas a ganar más guita y no te vas a quemar el marulo. Trabajo como lead data scientist y en Argentina a pesar de ser ""la profesión mas sexi del mileñio"" no vas a ganar buena guita. La comoetencia hoy por hoy es brutal.",1bhxteu
+142,No se la verdad,1bhxteu
+143,Mucho,1bhxteu
+144,"Depende el laburo, en algunos es más fácil que otros. En mi caso fue fácil",1bhxteu
+145,"Realmente solo depende de una cosa ¿sabes estadística?
+
+Si sabes estadística va a ser un paseo, de lo contrario vas a tener que aprender a programar y además estadística por lo que va a ser bastante difícil.",1bhxteu
+146,"Yo soy científica de datos...hice un cambio en plena pandemia. Una cosa es decir que lo sos por un cursito con diplo, otra cosa es realmente serlo manejarte con soltura entre conceptos estadísticos y algorítmos para explotar los datos.",1bhxteu
+147,Éxitos bro. Aprende estadística y mucha matemática,1bhxteu
+148,"Usualmente al data scientist le piden algun título anterior, incluso título que no tiene que ver con la prograsmación. Mientras tengas la parte estadística, adentro. He visto economistas, ingenieros, astronomos, matematicos, etc que se dedican a eso",1bhxteu
+149,gracias!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,1bhxteu
+150,Alguien que haya hecho la tecnicatura en algun ifts que pueda contar su experiencia y si trabaja de data science?,1bhxteu
+151,"Te recomiendo una academia, no por experiencia personal porque aún no lo empece al curso ahí pero lo voy a hacer. Pude investigar y en Argentina es la mejor. La academia se llama Soy Henry... es un bootcamp, buscalo, ojala te guste y sirva. Despues contame. Saludos!",1bhxteu
+152,"Muy buen aporte, estimado anónimo, gracias por compartir tan útil información, le deseo lo mejor, ilustre cabello.",1bhxteu
+153,Muchas gracias por compartir esos recursos. ¿Podrías recomendar algunos para adquirir bases sólidas en Javascript & React? De antemano gracias.,1bhxteu
+154,[deleted],1bhxteu
+155,Tome su upvote buen rediturr@ 😎,1bhxteu
+156,Muy burn aporte,1bhxteu
+157,"Hola que tal, estoy viendo que la UTN tiene una carrera ""tecnicatura en ciencia de datos e IA"" de 2 años y medio. Cómo la ven, cuanta salida laboral creen que tenga, y los sueldos sobre todo... me interesa me parece moderna, pero no sé si tiene para después seguir una licenciatura o ingeniería",1bhxteu
+158,"Empiezo desde cero, no tengo idea que significan los links jajaja xD",1bhxteu
+159,Si son muchas mates?,1bhxteu
+160,"Gratis? y si no, cuanto cobras?",1bhxteu
+161,"Que curso, me podrías decir?",1bhxteu
+162,Gracias lo haré!!,1bhxteu
+163,"Mi carrera si tiene relacion es lo bueno, no aprendi ni mierda pero el titulo suena mamador
+
+Por mi cuenta aprendería Data Science, y con el titulo pues mas oportunidad",1bhxteu
+164,hola sos de argentina? te puedo hacer unas preguntas?,1bhxteu
+165,"Claro, me refiero mas bien a no disfrutarlas nunca me he empeñado en aprenderlas",1bhxteu
+166,"Un trabajo de programacion especificamente en qué area? Tengo entendido que hay frontend backend mobile etc etc
+
+¿Qué tiene buena salida laboral y sueldo si se pudiera?",1bhxteu
+167,"En este caso aprenderé la habilidad a fondo en línea. Mi carrera si tiene que ver con analisis de datos estadistica mineria de datos etc
+
+Pero profundizaré en linea",1bhxteu
+168,Cuanto te garpan?,1bhxteu
+169,"estoy leyendo mucho esto de que hay una competencia feroz e infernal, desde afuera esto me asombra, realmente hay tantos bochos en ciencia y natematica pasandose a datos ? me asombra",1bhxteu
+170,No te metas ahí. Busca primero las experiencias de Reddit.,1bhxteu
+171,No hay de qué! 🤙🏻,1bhxteu
+172,"No hay por qué 🤙🏻
+
+
+
+Javascript:
+
+[https://es.javascript.info/js](https://es.javascript.info/js)
+
+[https://eloquentjs-es.thedojo.mx/index.html](https://eloquentjs-es.thedojo.mx/index.html)
+
+[https://www.freecodecamp.org/espanol/learn/javascript-algorithms-and-data-structures/](https://www.freecodecamp.org/espanol/learn/javascript-algorithms-and-data-structures/)
+
+[https://developer.mozilla.org/es/docs/Learn/JavaScript/First\_steps](https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps)
+
+[https://www.freecodecamp.org/espanol/news/40-proyectos-de-javascript-para-principiantes-ideas-faciles-para-empezar-a-codificar-en-js/](https://www.freecodecamp.org/espanol/news/40-proyectos-de-javascript-para-principiantes-ideas-faciles-para-empezar-a-codificar-en-js/)
+
+React:
+
+[Javascript para Aprender React](https://www.youtube.com/watch?v=lVqHiTCIRQg)
+
+[https://react.dev/learn](https://react.dev/learn)
+
+[https://nextjs.org/learn/react-foundations](https://nextjs.org/learn/react-foundations)
+
+[ReactJS de cero a experto - Luis Cabrera](https://www.youtube.com/playlist?list=PLdcAPGja1uw1fmhVo-obnAXEXPqYQ9HLy)
+
+[https://github.com/enaqx/awesome-react](https://github.com/enaqx/awesome-react)
+
+[https://github.com/midudev/preguntas-entrevista-react](https://github.com/midudev/preguntas-entrevista-react)
+
+También en mi historial de comentarios vas a encontrar muchos más links muy útiles.",1bhxteu
+173,"Holas 🙋🏻‍♂️ Si, te paso lo que tengo, quizás te sirva:
+
+
+
+[https://roadmap.sh/java](https://roadmap.sh/java)
+
+[https://www.tutorialesprogramacionya.com/javaya/](https://www.tutorialesprogramacionya.com/javaya/)
+
+  
+[https://www.sololearn.com/en/learn/courses/java-introduction](https://www.sololearn.com/en/learn/courses/java-introduction)
+
+[https://www.sololearn.com/en/learn/courses/java-intermediate](https://www.sololearn.com/en/learn/courses/java-intermediate)
+
+[https://www.w3schools.com/java/default.asp](https://www.w3schools.com/java/default.asp)
+
+[https://www.geeksforgeeks.org/java/?ref=outind](https://www.geeksforgeeks.org/java/?ref=outind)
+
+[https://exercism.org/tracks/java/concepts](https://exercism.org/tracks/java/concepts)
+
+[Estructuras de Datos y Algoritmos (en Java)](https://www.grycap.upv.es/gmolto/eda.php)
+
+[Bootcamp de Java](https://www.youtube.com/playlist?list=PLR_F5SrmCXsROeAM3vbxc10tdcFA_t8s0)
+
+[Todo sobre todas las versiones de Java](https://www.youtube.com/@MitoCode/search?query=java)",1bhxteu
+174,Gracias 🤙🏻,1bhxteu
+175,Gracias 🙌🏻,1bhxteu
+176,"Hola, ¿podrías pasar el link?
+
+Yo de paso dejo éstas otras que encontré por ahí, por ahí le sirve a alguien:
+
+[https://www.coursera.org/professional-certificates/analisis-de-datos-de-google](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+[https://www.ispc.edu.ar/tecnicatura-datos/](https://www.ispc.edu.ar/tecnicatura-datos/)
+
+[https://carreras.unsl.edu.ar/carreras/lic-analisis-y-gest-datos](https://carreras.unsl.edu.ar/carreras/lic-analisis-y-gest-datos)
+
+[https://agenciadeaprendizaje.bue.edu.ar/curso/tecnicatura-superior-en-ciencias-de-datos-e-inteligencia-artificial/](https://agenciadeaprendizaje.bue.edu.ar/curso/tecnicatura-superior-en-ciencias-de-datos-e-inteligencia-artificial/)
+
+[https://ugr.edu.ar/carreras/tecnicatura-universitaria-en-ciencia-de-datos/](https://ugr.edu.ar/carreras/tecnicatura-universitaria-en-ciencia-de-datos/)",1bhxteu
+177,"Está perfecto, simplemente entrá al primero y vas a ver un ""roadmap"" (mapa del camino) de por dónde te conviene ir empezando, que temás estudiar e incluso dónde (podes hacer click en los recuadros y aparecerán recursos para explorar al respecto).
+
+A medida que avances en el conocimiento de esos temas vas a estar cada vez más preparado para ser algún día un Data Scientist.
+
+Suerte!",1bhxteu
+178,"Sip. Poca porgramacion, mucha mate, mucha estadística",1bhxteu
+179,"Las clases en directo son gratis: https://lu.ma/gavaf1eb
+
+
+Lo estoy haciendo para promocionar el canal de YouTube.
+
+Llevamos 4 clases y todas están grabadas en esta playlist de YouTube: https://youtube.com/playlist?list=PL8HtbO24Pl3h1VVcNFi9ESy4OZYICd94f&si=qH0lJBag96dHSRDq
+
+Cuando hago clases 1:1 cobro entre 50-100 la hora. Aunque lo estoy dejando por hacer más trabajos de consultoría para empresas.",1bhxteu
+180,"Holis, si, estoy haciendo ""análisis de datos"" en el centro de formación profesional 6 de Parque Chacabuco, sé que se da en otros cfp de CABA, fijate en la página ""aprendizaje a lo largo de la vida"".",1bhxteu
+181,👍,1bhxteu
+182,"Y mándame máquina, ánimo",1bhxteu
+183,Que estudiaste?,1bhxteu
+184,Vas a ganar más en la especialidad que te guste más. Cuando algo te interesa te hace investigar más y conocer mejor cómo funciona. Volverte un especialista en un tema te llevará a mejores sueldos.,1bhxteu
+185,"Te lo agradezco, hermano. Estoy seguro le será de utilidad para mucha gente además de mí.
+
+Un abrazo!",1bhxteu
+186,sos un crack amigo!!!!,1bhxteu
+187,"Lo q necesitaba, gracias bro 🫂",1bhxteu
+188,[https://sceu.frba.utn.edu.ar/e-learning/detalle/carrera/2859/tecnicatura-en-ciencia-de-datos-e-ia](https://sceu.frba.utn.edu.ar/e-learning/detalle/carrera/2859/tecnicatura-en-ciencia-de-datos-e-ia),1bhxteu
+189,Graciasss,1bhxteu
+190,Mrd,1bhxteu
+191,"Entre 50 y 100 que? Dolares, euros, yenes, pesos, soles, bolivares, morlacos?",1bhxteu
+192,Hola yo me anoté para empezar este año en ciencia de datos e inteligencia artificial. Te hago una consulta viste que hay como un examen de 2 etapas es difícil o que tal ? Ahora tengo los cursos en la plataforma. Y bueno respecto a estudiar ahí que tal. Yo me anoté para el ifts 24. Lo que me preocupa es si después se puede seguir una carrera de grado con eso...,1bhxteu
+193,Ojalá así sea 🙌🏻  un abrazo!,1bhxteu
+194,"Me alegro que te sirvan, suerte 😎🤙🏻",1bhxteu
+195,No hay de qué 🤙🏻 Suerte!,1bhxteu
+196,Gracias!,1bhxteu
+197,No hay de qué 🙋🏻‍♂️ suerte!,1bhxteu
+198,"Hace Data Engineering, yo como economista q me gusta las matemáticas envidio a los que se dan maña con eso q se paga igual que Data Science y tiene más demanda.",1bhxteu
+199,Euros o dólares https://www.codementor.io/@jsulopzs,1bhxteu
+200,Maña con qué? No se entendió.,1bhxteu
+201,"Con lo que se requiere para Data Engineering, que es más conocimiento de sistemas, bases de datos, etc. que en mi caso tendría que aprender muy de 0.",1bhxteu
+202,"Ah claro, conocimiento de programming decís?",1bhxteu
